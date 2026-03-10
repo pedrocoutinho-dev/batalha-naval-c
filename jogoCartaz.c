@@ -7,7 +7,8 @@
  */
 
 int main() {
-    // --- Definição das Variáveis para a Carta 1 ---
+    // ---git add .
+     Definição das Variáveis para a Carta 1 ---
     char estado1, codigo1[4], nome1[50];
     int populacao1;
     float area1, pib1;
